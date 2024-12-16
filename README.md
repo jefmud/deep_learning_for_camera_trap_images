@@ -39,7 +39,7 @@ For more information on how to use this repo please refer to the base repo at [t
 
 ### Requirements
 To use this code, you will need to install the following:
-* Python 2.7
+* Python 2.7, updated to Python 3.10
 * Tenorflow 
 * NumPy
 * SciPy
