@@ -1,3 +1,10 @@
+# Notice to Interested Parties
+This repository is very outdated, so only read for foundational/historical knowlege.
+
+I cited and forked this repo quite a while ago since I was part of a research group that used a method developed in this paper.  We had heavy "techinical debt" to Marco Willi, who spent a the most time training and testing.
+
+Jeff
+
 # deep_learning_for_camera_trap_images
 This repository contains the code used for the following paper:
 
